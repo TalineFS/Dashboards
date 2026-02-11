@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Dados sensíveis
+*.csv
+data/
+*.xlsx
+*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+```
+
+4. Commit com mensagem: `"Adiciona .gitignore"`
+
+### ✅ **PRONTO! Repositório criado!**
+
+Agora você pode acessar algo como:
+```
+https://github.com/seu-usuario/dashboard-jira-agil
